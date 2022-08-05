@@ -20,3 +20,4 @@ Application Preview
 Timesheets
 -------------------------------------------------------------------------------------------
 First Timesheet: [FirstDay Timesheet.xlsx](https://github.com/lukhanyoThando/JOBOX-FE-PROJECT/files/9266882/FirstDay.Timesheet.xlsx)
+Second Timesheet: [Second-Timesheet.xlsx](https://github.com/lukhanyoThando/JOBOX-FE-PROJECT/files/9266958/Second-Timesheet.xlsx)
